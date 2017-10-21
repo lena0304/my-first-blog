@@ -1,0 +1,7 @@
+*.pyc
+*~
+__pycache__
+lenavenv
+db.sqlite3
+/static
+.DS_Store
